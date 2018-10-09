@@ -1,0 +1,2 @@
+# Tensorflow-Chatbot
+ In this demo code, I go over a brute force approach to the Traveling Salesman Problem. The TSP problem states that given a list of cities, what's the shortest possible route a traveling salesman could take to visit all of them and return back to his home city? The way the demo code solves this is to try every possible path. Since the number of cities is low, this works. But if we added more cities, this would quickly get really computationally expensive.
